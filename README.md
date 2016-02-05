@@ -102,5 +102,16 @@
     var {NativeModules} = require('react-native');
     var FBLogin = require('react-native-facebook-login');
     var FBLoginManager = NativeModules.FBLoginManager; //<= if needed
+    
+###Output Screenshot
+
+![GitHub Logo](/outmain.png)
+
+![GitHub Logo](/Loginfb.png)
+
+![GitHub Logo](/Fbauth.png)
+
+![GitHub Logo](/Fblogout.png)
+
 
    
