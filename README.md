@@ -101,13 +101,13 @@
 ###Step 6 - include in Javascript
 
     var {NativeModules} = require('react-native');
-var FBLogin = require('react-native-facebook-login');
-var FBLoginManager = NativeModules.FBLoginManager; // if needed
+    var FBLogin = require('react-native-facebook-login');
+    var FBLoginManager = NativeModules.FBLoginManager; // if needed
 
-//eg.
-<FBLogin
-    onLogin={function(e){console.log(e)}}
-    onLogout={function(e){console.log(e)}}
-    onCancel={function(e){console.log(e)}}
-    onPermissionsMissing={function(e){console.log(e)}}
-  />
+    //eg.
+   <FBLogin
+      onLogin={function(e){console.log(e)}}
+      onLogout={function(e){console.log(e)}}
+      onCancel={function(e){console.log(e)}}
+      onPermissionsMissing={function(e){console.log(e)}}
+    />
