@@ -31,14 +31,14 @@
     include ':react-native-facebook-login'
     project(':react-native-facebook-login').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-facebook-login/android')
 
-###Step2-Update Gradle Build
+###Step 2-Update Gradle Build
 
-    // file: android/app/build.gradle
+   // file: android/app/build.gradle
    ...
 
-   dependencies {
+  dependencies {
     ...
-    compile project(':react-native-facebook-login')
+   compile project(':react-native-facebook-login')
    }
 
 ###Step 3 - Register React Package and Handle onActivityResult    
