@@ -1,4 +1,4 @@
-# React-native-Facebook-Integration
+ # React-native-Facebook-Integration
 
 ### FB integration in android
 
@@ -100,7 +100,7 @@ public class MainActivity extends ReactActivity {
 
 ###Step 6 - include in Javascript
 
-var {NativeModules} = require('react-native');
+    var {NativeModules} = require('react-native');
 var FBLogin = require('react-native-facebook-login');
 var FBLoginManager = NativeModules.FBLoginManager; // if needed
 
