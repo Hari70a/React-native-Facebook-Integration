@@ -101,18 +101,6 @@
 
     var {NativeModules} = require('react-native');
     var FBLogin = require('react-native-facebook-login');
-    var FBLoginManager = NativeModules.FBLoginManager; // if needed
+    var FBLoginManager = NativeModules.FBLoginManager; //<= if needed
 
-    //eg.
- <FBLogin
-    onLogin={function(e){console.log(e)}}
-    onLogout={function(e){console.log(e)}}
-    onCancel={function(e){console.log(e)}}
-    onPermissionsMissing={function(e){console.log(e)}}
-   />
-
-
-
-
-
-
+   
