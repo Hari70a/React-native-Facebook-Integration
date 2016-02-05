@@ -29,7 +29,7 @@
        ...
 
     include ':react-native-facebook-login'
-    project(':react-native-facebook-login').projectDir = new File(rootProject.projectDir,      '../node_modules/react-native-facebook-login/android')
+    project(':react-native-facebook-login').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-facebook-login/android')
 
 ###Step2-Update Gradle Build
 
