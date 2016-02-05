@@ -43,10 +43,10 @@
  
 ###Step 3 - Register React Package and Handle onActivityResult    
 
-...
-import com.magus.fblogin.FacebookLoginPackage; // <--- import
+    ...
+    import com.magus.fblogin.FacebookLoginPackage; // <--- import
 
-public class MainActivity extends ReactActivity {
+    public class MainActivity extends ReactActivity {
 
     ...
 
