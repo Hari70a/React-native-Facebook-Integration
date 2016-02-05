@@ -33,13 +33,13 @@
 
 ###Step2-Update Gradle Build
 
-// file: android/app/build.gradle
-...
+    // file: android/app/build.gradle
+   ...
 
-dependencies {
+   dependencies {
     ...
     compile project(':react-native-facebook-login')
-}
+   }
 
 ###Step 3 - Register React Package and Handle onActivityResult    
 
