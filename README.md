@@ -63,10 +63,10 @@
 
 ###Step 4 - Add Facebook App ID to String resources
 
-<resources>
-    <string name="app_name">your-app-name</string>
-    <string name="fb_app_id">your-fb-app-id</string>
-</resources>
+    <resources>
+       <string name="app_name">your-app-name</string>
+        <string name="fb_app_id">your-fb-app-id</string>
+    </resources>
 
 ###Step 5 - update AndroidManifest
 
