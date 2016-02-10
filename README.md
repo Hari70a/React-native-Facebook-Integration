@@ -21,6 +21,7 @@
 * Avoid get android key from command prompt because this will the app to install only once . After then it will show invalid hash key
 
 * Then proceed with following steps
+
 ### Installation of Facebook  in npm
 
    //run the following command
