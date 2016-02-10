@@ -22,8 +22,8 @@
 
 * Then proceed with following steps
 ### Installation of Facebook  in npm
-
-     npm install --save react-native-facebook-login
+   //run the following command
+          npm install --save react-native-facebook-login
 
 ###Step 1-Update Gradle settings
 
