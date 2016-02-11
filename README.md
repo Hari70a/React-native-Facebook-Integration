@@ -2,7 +2,7 @@
 
 ### FB integration in android
 
-* Follow the steps here to  do installation of plugins and its associates.
+* Follow the steps below for installation of plugins and its associates.
 
 ###Installation Setup for android 
 
