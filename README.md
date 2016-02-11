@@ -16,7 +16,7 @@
 
 * After that click on your app and the go to settings to upload your 25 alphanumeric android key
 
-* Follow this [link](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html for getting keys through puTTygen) to download puTTygen
+* Follow this [link](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) to download puTTygen
 
 * Avoid getting  android key from command prompt ,  because this will allow the app to install only once . After then it will show invalid hash key(mismatch  in keyhash occurs)
 
