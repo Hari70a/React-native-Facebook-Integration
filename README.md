@@ -18,7 +18,7 @@
 
 * Follow this [link](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html for getting keys through puTTygen)
 
-* Avoid get android key from command prompt because this will the app to install only once . After then it will show invalid hash key
+* Avoid getting  android key from command prompt ,  because this will allow the app to install only once . After then it will show invalid hash key(mismatch  in keyhash occurs)
 
 * Then proceed with following steps
 
