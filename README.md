@@ -12,7 +12,7 @@
 
 * Then create a new  app from myapps tab
 
-* Create a keykash [here](https://developers.facebook.com/docs/android/getting-started) by following the Setting a Release Key Hash header
+* Create a keykash [here](https://developers.facebook.com/docs/android/getting-started) by setting a Release Key Hash header
 
 * After that click on your app and the go to settings to upload your 25 alphanumeric android key
 
