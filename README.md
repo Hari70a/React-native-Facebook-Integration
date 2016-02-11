@@ -6,7 +6,7 @@
 
 ###Installation Setup for android 
 
-* The most important perspective is to get the keyhash and Facebook appid from this [link](https://developers.facebook.com).
+* The most important perspective is to get the keyhash and Facebook appID from this [link](https://developers.facebook.com).
  
 * Before that you have to login to facebook from [fblogin](https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2F)
 
